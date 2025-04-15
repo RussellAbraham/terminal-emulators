@@ -1,0 +1,30 @@
+html,body{
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+	background:black;
+}
+
+h1{
+	margin:0;
+	font-size:50px;
+	font-weight:normal;
+}
+
+#App{
+	position:absolute;
+	top:0px;
+	bottom:0px;
+	width:100%;
+	font-size:45px;
+	-webkit-user-select: none;
+}
+
+.navigation-pane{
+	background: #262626;	
+}
+
+.half-view{
+	height:367px;
+}
